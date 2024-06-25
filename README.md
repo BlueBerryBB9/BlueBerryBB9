@@ -9,10 +9,10 @@ You're right now on my github profile, where i mainly show most of my schools pr
 ### My skills ?
 
 1. Programming languages
-  - C / C++ (advanced)
-  - VBA
-  - Java
-  - C# (Unity) for video game development (More in [MDS repository](https://github.com/BlueBerryBB9/MedievalDeliverySimulator))
+    - C / C++ (advanced)
+    - VBA
+    - Java
+    - C# (Unity) for video game development (More in [MDS repository](https://github.com/BlueBerryBB9/MedievalDeliverySimulator))
 
 2. Web Programming languages
   - HTML
