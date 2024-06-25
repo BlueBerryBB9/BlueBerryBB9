@@ -1,6 +1,6 @@
-<h1 align="center">Hi World 👋</h1>
+<h1 align="center">Hello World 👋, i'm Martin</h1>
 
-I'm **Martin**, a Software Development student at [89 - École supérieure du numérique](https://www.ecole-89.com/).
+<h3 align="center">Software Development student at [89 - École supérieure du numérique](https://www.ecole-89.com/).</h3>
 
 I hope you're doing well,
 
