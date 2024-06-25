@@ -1,6 +1,10 @@
-### Hi everyone, i'm Martin 👋 !
+### Hello World ! 👋
+<small>what a reference<small>
 
-You're right now on my github profile, where i mainly save all my projects as a students at 89 - [École supérieure du numérique](https://www.ecole-89.com/)
+I hope you're doing well,
+I'm **Martin**, a Software Development student at [89 - École supérieure du numérique](https://www.ecole-89.com/).
+
+You're right now on my github profile, where i mainly show most of my schools projects and configs for linux.
 
 <!--
 **BlueBerryBB9/BlueBerryBB9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
