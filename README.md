@@ -1,7 +1,8 @@
-## Hello World ! 👋 ###### what a reference
+## Hello World ! 👋 
+###### what a reference
 
 I hope you're doing well,
-I'm **Martin**, a Software Development student at [89 - École supérieure du numérique](https://www.ecole-89.com/).
+I'm ==Martin==, a Software Development student at [89 - École supérieure du numérique](https://www.ecole-89.com/).
 
 You're right now on my github profile, where i mainly show most of my schools projects and configs for linux.
 
