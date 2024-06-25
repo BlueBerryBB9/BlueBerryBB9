@@ -1,8 +1,7 @@
 <h1 align="center">Hi World 👋</h1>
-<h3 align="center">A passionate full-stack developer from France</h3>
+<h3 align="center">I'm **Martin**, a Software Development student at [89 - École supérieure du numérique](https://www.ecole-89.com/).</h3>
 
 I hope you're doing well,
-I'm **Martin**, a Software Development student at [89 - École supérieure du numérique](https://www.ecole-89.com/).
 
 You're right now on my github profile, where i mainly show most of my schools projects and configs for linux.
 
