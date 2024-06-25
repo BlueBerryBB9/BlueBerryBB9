@@ -1,5 +1,5 @@
-## Hello World ! 👋 
-###### what a reference
+<h1 align="center">Hi World 👋</h1>
+<h3 align="center">A passionate full-stack developer from France</h3>
 
 I hope you're doing well,
 I'm **Martin**, a Software Development student at [89 - École supérieure du numérique](https://www.ecole-89.com/).
