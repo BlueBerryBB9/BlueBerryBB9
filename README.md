@@ -1,5 +1,5 @@
-### Hello World ! 👋
-<small>what a reference<small>
+## Hello World ! 👋
+###### what a reference
 
 I hope you're doing well,
 I'm **Martin**, a Software Development student at [89 - École supérieure du numérique](https://www.ecole-89.com/).
