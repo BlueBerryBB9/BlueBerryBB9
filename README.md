@@ -10,13 +10,13 @@ You're right now looking at my github profile, where i *mainly* show most of my 
 
 Tech i work with :
 
-⚡ 1. Programming languages :
+####⚡ 1. Programming languages :
     - C / C++ (advanced)
     - VBA
     - Java
     - C# (Unity) for video game development (More in [MDS repository](https://github.com/BlueBerryBB9/MedievalDeliverySimulator))
 
-🔭 2. Web Programming languages :
+####🔭 2. Web Programming languages :
       - HTML
       - CSS
       - PHP
@@ -24,7 +24,7 @@ Tech i work with :
       - Nodejs
       - Symfony framework with PHPmyAdmin and Xampp
 
-⭐ 3. Other :
+####⭐ 3. Other :
       - Git
       - Knowledge on AGILE / SCRUM project management
       - UML and MERISE method
