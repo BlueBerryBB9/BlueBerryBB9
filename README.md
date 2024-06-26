@@ -38,4 +38,4 @@ Thank you for taking your time to read this far ツ, if interested my pins repos
 Have a good day !
 
 **For my french pdf CV : <a href="./CVfrench.pdf" target="_blank">MY_FRENCH_PDF_CV</a>** 
-<h6>(be careful it's a light mode CV)</h6>
+<h6>(be careful it's a light mode CV / I recommand downloading it so you can Ctrl + click on links :) )</h6>
