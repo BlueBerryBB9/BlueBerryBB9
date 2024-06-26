@@ -30,8 +30,11 @@ Hi, here is where i *mainly* show most of my school's projects and my configs fo
     - UML and MERISE method
 
 - 🌱 I’m currently learning Java
+- ❤️ I like : Video Games of all sort, Animes, Hiking and Learning
 - 📫 How to reach me : [martin4leroy@gmail.com](martin4leroy@gmail.com) (i'm on Linkedin but not very active)
 
 Thank you for taking your time to read this far ツ, if interested my pins repositories are just below !
 
 Have a good day !
+
+**For my french pdf CV : [MY_FRENCH_PDF_CV](img/CVfrench.pdf)**
