@@ -3,10 +3,11 @@
 <h3 align="center">Software Development student at <a href="https://www.ecole-89.com/">89 - École supérieure du numérique.</a></h3>
 
 I hope you're doing well,
+You're right now looking at my github profile, where i *mainly* show most of my schools projects and configs for linux.
 
-You're right now on my github profile, where i mainly show most of my schools projects and configs for linux.
 
 ### My skills ?
+
 
 Things i worked with :
 
