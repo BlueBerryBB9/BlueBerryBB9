@@ -1,8 +1,8 @@
 <h1 align="center">Hello World 👋, i'm Martin !</h1>
 
 <h3 align="center">Software Development student at <a href="https://www.ecole-89.com/">89 - École supérieure du numérique.</a></h3>
-***
-***
+---
+---
 Hi, here is where i *mainly* show most of my school's projects and my configs for the differents OSs.
 
 ### My skills ?
