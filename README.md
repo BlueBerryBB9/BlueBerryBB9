@@ -2,11 +2,9 @@
 
 <h3 align="center">Software Development student at <a href="https://www.ecole-89.com/">89 - École supérieure du numérique.</a></h3>
 
-You're right now looking at my github profile, where i *mainly* show most of my schools projects and configs for other OSs.
-
+Hi, here is where i *mainly* show most of my schools projects and configs for other OSs.
 
 ### My skills ?
-
 
 Tech i work with :
 
