@@ -2,11 +2,9 @@
 
 <h3 align="center">Software Development student at <a href="https://www.ecole-89.com/">89 - École supérieure du numérique.</a></h3>
 
-Hi, here is where i *mainly* show most of my schools projects and configs for other OSs.
+Hi, here is where i *mainly* show most of my schools projects and configs for my OSs.
 
 ### My skills ?
-
-Tech i work with :
 
 1. ⚡ Programming languages :
     - C / C++ (advanced)
@@ -27,14 +25,8 @@ Tech i work with :
       - Knowledge on AGILE / SCRUM project management
       - UML and MERISE method
 
-<!--
+- 🌱 I’m currently learning Java
+- 📫 How to reach me : [martin4leroy@gmail.com](martin4leroy@gmail.com)
 
-- 💬 Ask me about ...
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for taking your time to read this far ツ, if interested my pins repositories are just below !
+Have a good day !
