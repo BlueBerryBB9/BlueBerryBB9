@@ -6,7 +6,7 @@ Hi, here is where i *mainly* show most of my school's projects and my configs fo
 
 ### My skills ?
 
-1. ⚡ Programming languages :
+1. ⚡ Software Programming languages :
     - C / C++ (advanced)
     - VBA
     - Java
@@ -17,7 +17,8 @@ Hi, here is where i *mainly* show most of my school's projects and my configs fo
     - CSS
     - PHP
     - Javascript
-    - Nodejs and Fastify
+    - Typescript
+    - Nodejs with Fastify
     - Symfony framework with PHPmyAdmin and Xampp
 
 3. 🖋️ Text Editors :
