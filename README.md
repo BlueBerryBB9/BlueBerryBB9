@@ -41,3 +41,5 @@ Have a good day !
 # My french CV :
 
 ![Image de mon CV](/CVfrench-1.png)
+
+# My french presentation video : ![aaa](https://www.youtube.com/watch?v=SemIjcZRaLQ)
