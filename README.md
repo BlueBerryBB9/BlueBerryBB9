@@ -22,7 +22,7 @@ Hi, here is where i *mainly* show most of my school's projects and my configs fo
 
 3. 🖋️ Text Editors :
     - VScode
-    - Neovim
+    - Neovim (very *peculiar* but so *effective*)
 
 5. ⭐ Other :
     - Git / Github
