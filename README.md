@@ -8,6 +8,8 @@ You're right now on my github profile, where i mainly show most of my schools pr
 
 ### My skills ?
 
+Things i worked with :
+
 1. Programming languages
     - C / C++ (advanced)
     - VBA
