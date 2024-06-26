@@ -37,4 +37,4 @@ Thank you for taking your time to read this far ツ, if interested my pins repos
 
 Have a good day !
 
-**For my french pdf CV : [MY_FRENCH_PDF_CV](./CVfrench.pdf)**
+**For my french pdf CV : <a href="./CVfrench.pdf">MY_FRENCH_PDF_CV</a>**
