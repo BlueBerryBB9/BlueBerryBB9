@@ -30,7 +30,7 @@ Hi, here is where i *mainly* show most of my school's projects and my configs fo
     - UML and MERISE method
 
 - 🌱 I’m currently learning Java
-- 📫 How to reach me : [martin4leroy@gmail.com](martin4leroy@gmail.com)
+- 📫 How to reach me : [martin4leroy@gmail.com](martin4leroy@gmail.com) (i'm on Linkedin but not very active)
 
 Thank you for taking your time to read this far ツ, if interested my pins repositories are just below !
 
