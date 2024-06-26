@@ -39,4 +39,4 @@ Have a good day !
 
 # My french CV :
 
-![Image de mon CV](/CVfrench.pdf)
+![Image de mon CV](/CVfrench-1.png)
