@@ -13,17 +13,21 @@ Hi, here is where i *mainly* show most of my school's projects and my configs fo
     - C# (Unity) for video game development (More in [MDS repository](https://github.com/BlueBerryBB9/MedievalDeliverySimulator) i promise it's cool)
 
 2. 🔭 Web Programming languages :
-      - HTML
-      - CSS
-      - PHP
-      - Javascript
-      - Nodejs and Fastify
-      - Symfony framework with PHPmyAdmin and Xampp
+    - HTML
+    - CSS
+    - PHP
+    - Javascript
+    - Nodejs and Fastify
+    - Symfony framework with PHPmyAdmin and Xampp
 
-3. ⭐ Other :
-      - Git / Github
-      - Knowledge on AGILE / SCRUM project management
-      - UML and MERISE method
+3. 🖋️ Text Editors :
+    - VScode
+    - Neovim
+
+5. ⭐ Other :
+    - Git / Github
+    - Knowledge on AGILE / SCRUM project management
+    - UML and MERISE method
 
 - 🌱 I’m currently learning Java
 - 📫 How to reach me : [martin4leroy@gmail.com](martin4leroy@gmail.com)
