@@ -19,11 +19,11 @@ Tech i work with :
       - CSS
       - PHP
       - Javascript
-      - Nodejs
+      - Nodejs and Fastify
       - Symfony framework with PHPmyAdmin and Xampp
 
 3. ⭐ Other :
-      - Git
+      - Git / Github
       - Knowledge on AGILE / SCRUM project management
       - UML and MERISE method
 <!--
