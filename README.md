@@ -26,7 +26,7 @@ Things i worked with :
 
 3. Other
       - Git
-      - Some knowledge on AGILE / SCRUM project management
+      - Knowledge on AGILE / SCRUM project management
       - UML and MERISE method
 <!--
 **BlueBerryBB9/BlueBerryBB9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
