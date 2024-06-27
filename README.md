@@ -26,6 +26,7 @@ Hi, here is where i *mainly* show most of my school's projects and my configs fo
     - Neovim (very *peculiar* but so *effective*)
 
 5. ⭐ Other :
+    - yarn
     - Shell / Bash
     - Git / Github
     - Knowledge on AGILE / SCRUM project management
