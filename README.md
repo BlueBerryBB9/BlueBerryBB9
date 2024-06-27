@@ -33,7 +33,7 @@ Hi, here is where i *mainly* show most of my school's projects and my configs fo
     - UML and MERISE method
     - Rest API
     - Build a project with yarn
-    - Notion about UI/UX [here](https://github.com/BlueBerryBB9/Ideation_design_thinking)
+    - Notions about UI/UX [here](https://github.com/BlueBerryBB9/Ideation_design_thinking)
 
 - 🌱 I’m currently learning Java
 - ❤️ I like : Video Games of all sort, Animes, Hiking and Learning
