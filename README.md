@@ -39,7 +39,7 @@ Thank you for taking your time to read this far ツ, if interested my pinned rep
 
 Have a good day !
 
-# My French CV :
+# My french CV :
 
 ![Image de mon CV](/CVfrench-1.png)
 
