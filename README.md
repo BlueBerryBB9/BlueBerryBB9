@@ -33,7 +33,7 @@ Hi, here is where i *mainly* show most of my school's projects and my configs fo
 
 - 🌱 I’m currently learning Java
 - ❤️ I like : Video Games of all sort, Animes, Hiking and Learning
-- 📫 How to reach me : [martin4leroy@gmail.com](mailto:martin4leroy@gmail.com) (i'm on Linkedin but not very active)
+- 📫 How to reach me : [martin4leroy@gmail.com](mailto:martin4leroy@gmail.com)
 
 Thank you for taking your time to read this far ツ, if interested my pinned repositories are just below !
 
