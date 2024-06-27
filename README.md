@@ -15,11 +15,10 @@ Hi, here is where i *mainly* show most of my school's projects and my configs fo
 2. 🔭 Web Programming languages :
     - HTML
     - CSS
-    - PHP
     - Javascript
     - Typescript
     - Nodejs with Fastify
-    - Symfony framework with PHPmyAdmin and Xampp
+    - PHP with Symfony framework & PHPmyAdmin on Xampp
 
 3. 🖋️ Text Editors :
     - VScode
