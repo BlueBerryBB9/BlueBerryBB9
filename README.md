@@ -6,13 +6,13 @@ Hi, here is where i *mainly* show most of my school's projects and my configs fo
 
 ### My skills ?
 
-1. ⚡ **Software Programming languages** :
+1. ⚡ Software Programming languages :
     - **C / C++** (advanced)
     - **VBA**
     - Java
     - C# (Unity) for video game development (More in [MDS repository](https://github.com/BlueBerryBB9/MedievalDeliverySimulator), i promise it's cool)
 
-2. 🔭 **Web Programming languages** :
+2. 🔭 Web Programming languages :
     - HTML
     - CSS
     - **SQL**
@@ -21,12 +21,12 @@ Hi, here is where i *mainly* show most of my school's projects and my configs fo
     - **Nodejs** with Fastify
     - **PHP** with Symfony framework & PHPmyAdmin on Xampp
 
-3. 🖋️ **Text Editors** :
+3. 🖋️ Text Editors :
     - **VScode**
     - **Neovim** (very *peculiar* but so *efficient*)
     - Emacs
 
-5. ⭐ **Other** :
+5. ⭐ Other :
     - **Shell** / Bash
     - **Git** / Github
     - Knowledge on AGILE / SCRUM project management
