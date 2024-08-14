@@ -47,4 +47,4 @@ Have a good day !
 
 ![Image de mon CV](/CVfrench-1.png)
 
-# My french presentation video [here](https://www.youtube.com/watch?v=SemIjcZRaLQ)
+
