@@ -39,12 +39,6 @@ Hi, here is where i *mainly* show most of my school's projects and my configs fo
 - ❤️ I like : Video Games of all sort, E-sport, Animes, Hiking, Badminton, Table Tennis and Learning
 - 📫 How to reach me : [martin4leroy@gmail.com](mailto:martin4leroy@gmail.com)
 
-Thank you for taking your time to read this far ツ, if interested my pinned repositories are just below !
+Thank you for taking the time to read this far ツ, if interested my pinned repositories are just below !
 
-Have a good day !
-
-# My french CV :
-
-![Image de mon CV](/CVfrench-1.png)
-
-
+Have a great day !
