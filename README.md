@@ -32,7 +32,7 @@ Hi, here is where i *mainly* show most of my school's projects and my configs fo
     - **Shell** / Bash
     - **Git** / Github
     - Knowledge on AGILE / SCRUM project management
-    - **UML** and MERISE method
+    - **UML** and MERISE methods
     - **Rest API**
     - Build a project with yarn
     - Notions about UI/UX [here](https://github.com/BlueBerryBB9/Ideation_design_thinking)
