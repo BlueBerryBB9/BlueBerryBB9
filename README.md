@@ -25,7 +25,7 @@ Hi, here is where i *mainly* show most of my school's projects and my configs fo
 
 3. 🖋️ Text Editors :
     - **VScode**
-    - **Neovim** (very *peculiar* but so *efficient*)
+    - **Neovim**
     - Emacs
 
 5. ⭐ Other :
