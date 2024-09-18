@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, i'm Martin !</h1>
 
 <h3 align="center">Software Development student at <a href="https://www.ecole-89.com/">89 - École supérieure du numérique.</a></h3>
-<h3 align="center">Currently actively researching of an apprenticeship in software and web programming.</a></h3>
+<h3 align="center">Actively researching of an apprenticeship in software and web programming.</a></h3>
 <br>
 
 Hi, here is where i *mainly* show most of my school's projects and my configs for the differents OSs.
@@ -10,7 +10,7 @@ Hi, here is where i *mainly* show most of my school's projects and my configs fo
 
 1. ⚡ Software Programming languages :
     - **C / C++**
-    - **VBA**
+    - VBA
     - Java
     - C# (Unity) for video game development (More in [MDS repository](https://github.com/BlueBerryBB9/MedievalDeliverySimulator), i promise it's cool)
 
