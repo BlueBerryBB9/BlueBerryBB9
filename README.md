@@ -11,7 +11,6 @@ Hi, here is where i *mainly* show most of my school's projects and my configs fo
     - **C / C++**
     - VBA
     - Java
-    - C# (Unity) for video game development (More in [MDS repository](https://github.com/BlueBerryBB9/MedievalDeliverySimulator), i promise it's cool)
 
 2. 🔭 Web Programming languages :
     - HTML
