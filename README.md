@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👋, i'm Martin !</h1>
 
-<h3 align="center">Software Development student at B-School by BNP Paribas.</a></h3>
+<h3 align="center">Software Development student.</h3>
 <br>
 
 Hi, here is where i *mainly* show most of my school's projects and my configs for the differents OSs.
